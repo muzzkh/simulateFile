@@ -1,0 +1,256 @@
+[
+  {
+    "filepath": "simulatedDir/dir1",
+    "access": {
+      "CREATE,ISDIR": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/logfile.txt",
+    "access": {
+      "MODIFY": 34
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2",
+    "access": {
+      "CREATE,ISDIR": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir3",
+    "access": {
+      "CREATE,ISDIR": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir4",
+    "access": {
+      "CREATE,ISDIR": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir1/3a5af772-c487-4323-8aeb-8e18653e5396.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir3/1da0af4c-1fb3-4737-a116-db99ac032a4a.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/I",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/send",
+    "access": {
+      "CREATE": 36,
+      "DELETE": 36
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/need",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/to",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/tell",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/you",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/about",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/all",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/of",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/these",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/top",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/secret",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/things",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/im",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/doing",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/through",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/this",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/covert",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/possibleCovert/channel",
+    "access": {
+      "CREATE": 2,
+      "DELETE": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir1/fa9368ed-40a1-436c-8977-e35a2f6034ef.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2/bf8f9367-b9fa-4bd7-8f6e-6a489a690175.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2/ce832e68-30ee-4fb7-b1da-ca71133c17b7.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir4/1054a9ac-d1e6-47aa-815c-19b7ebad74ab.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2/355a77d4-d329-428c-9a25-aea69dd33d6c.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir1/573ad406-050e-4e63-9414-be4cd85841bf.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2/8fc2b61a-8e8a-49a9-b081-2cd0a8c75297.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir4/e898a536-f437-4455-9c81-1cf79bd50099.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir1/8d765481-dc34-47e7-ac5b-053ffc4eaea4.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir2/89cc7278-4cb8-4d96-adbe-f8c386e7c9cd.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  },
+  {
+    "filepath": "simulatedDir/dir3/6b9710d4-6c56-4794-9c2d-c0a2cafd5470.txt",
+    "access": {
+      "CREATE": 2,
+      "MODIFY": 2
+    }
+  }
+]

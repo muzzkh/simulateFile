@@ -1,0 +1,7 @@
+DATE: 2023-11-14T19:27:50 -- USER:  -- FILE:/home/GroupProject/inotify-dir/OPEN,ISDIR -- EVENT: 
+DATE: 2023-11-14T19:27:50 -- USER:  -- FILE:/home/GroupProject/inotify-dir/CLOSE_NOWRITE,CLOSE,ISDIR -- EVENT: 
+DATE: 2023-11-14T19:28:11 -- USER:  -- FILE:/home/GroupProject/inotify-dir/send.txt -- EVENT: CREATE
+DATE: 2023-11-14T19:28:11 -- USER:  -- FILE:/home/GroupProject/inotify-dir/send.txt -- EVENT: OPEN
+DATE: 2023-11-24T11:12:58 -- USER:  -- FILE:/home/GroupProject/simulateFile/dir1 -- EVENT: CREATE,ISDIR
+DATE: 2023-11-24T11:12:58 -- USER:  -- FILE:/home/GroupProject/simulateFile/logfile.txt -- EVENT: MODIFY
+DATE: 2023-12-01T11:19:26 -- USER:  -- FILE:simulatedDir/dir3/send.txt -- EVENT: DELETE

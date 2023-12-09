@@ -1,0 +1,67 @@
+{
+  "FILE:/home/GroupProject/inotify-dir": {
+    "CREATE_FILE": 0,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 0
+  },
+  "/home/GroupProject/inotify-dir": {
+    "CREATE_FILE": 1,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 0
+  },
+  "/home/GroupProject/simulateFile": {
+    "CREATE_FILE": 0,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 487
+  },
+  "/home/GroupProject/simulateFile/dir3": {
+    "CREATE_FILE": 68,
+    "DEL_FILE": 68,
+    "MODIFY_FILE": 139
+  },
+  "/home/GroupProject/simulateFile/dir4": {
+    "CREATE_FILE": 64,
+    "DEL_FILE": 64,
+    "MODIFY_FILE": 134
+  },
+  "/home/GroupProject/simulateFile/dir1": {
+    "CREATE_FILE": 55,
+    "DEL_FILE": 55,
+    "MODIFY_FILE": 128
+  },
+  "/home/GroupProject/simulateFile/dir2": {
+    "CREATE_FILE": 43,
+    "DEL_FILE": 43,
+    "MODIFY_FILE": 87
+  },
+  "simulatedDir": {
+    "CREATE_FILE": 1,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 868
+  },
+  "simulatedDir/dir2": {
+    "CREATE_FILE": 156,
+    "DEL_FILE": 156,
+    "MODIFY_FILE": 235
+  },
+  "simulatedDir/dir4": {
+    "CREATE_FILE": 143,
+    "DEL_FILE": 143,
+    "MODIFY_FILE": 197
+  },
+  "simulatedDir/dir1": {
+    "CREATE_FILE": 136,
+    "DEL_FILE": 136,
+    "MODIFY_FILE": 207
+  },
+  "simulatedDir/dir3": {
+    "CREATE_FILE": 145,
+    "DEL_FILE": 145,
+    "MODIFY_FILE": 211
+  },
+  "simulatedDir/possibleCovert": {
+    "CREATE_FILE": 76,
+    "DEL_FILE": 74,
+    "MODIFY_FILE": 2
+  }
+}

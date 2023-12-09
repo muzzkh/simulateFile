@@ -1,0 +1,32 @@
+{
+  "simulatedDir": {
+    "CREATE_FILE": 0,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 34
+  },
+  "simulatedDir/dir1": {
+    "CREATE_FILE": 8,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 8
+  },
+  "simulatedDir/dir3": {
+    "CREATE_FILE": 4,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 4
+  },
+  "simulatedDir/possibleCovert": {
+    "CREATE_FILE": 72,
+    "DEL_FILE": 72,
+    "MODIFY_FILE": 0
+  },
+  "simulatedDir/dir2": {
+    "CREATE_FILE": 10,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 10
+  },
+  "simulatedDir/dir4": {
+    "CREATE_FILE": 4,
+    "DEL_FILE": 0,
+    "MODIFY_FILE": 4
+  }
+}
